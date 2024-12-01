@@ -18,7 +18,11 @@
 
 ###
 
-<p align="center">I'm Paolo from 🇮🇹<br><br>- 📚 I'm currently learning Astro + Tailwind CSS<br>- My works: <a href="http://vittoriaagostinelli.altervista.org">Vittoria Agostinelli</a> </p>
+<p align="center">I'm Paolo from 🇮🇹<br><br>- 📚 I'm currently learning Astro + Tailwind CSS <br>
+  - My works: <br> 
+  <a href="http://vittoriaagostinelli.altervista.org">Vittoria Agostinelli Autrice</a> <br>
+  <a href="https://fornopetriniglutenfree.altervista.org/">Forno Petrini</a> <br>
+</p>
 
 ###
 
